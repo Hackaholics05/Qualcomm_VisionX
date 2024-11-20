@@ -119,6 +119,10 @@ Feel free to fork this repository and contribute improvements, bug fixes, or new
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
+## RoadMap
+[![image](https://github.com/user-attachments/assets/cf5a40c7-8293-4ec9-9bc3-37aa69d5d0cc)]
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
